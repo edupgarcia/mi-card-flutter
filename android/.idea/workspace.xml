@@ -13,6 +13,9 @@
     </projectState>
   </component>
   <component name="ProjectId" id="1doT8Sxn9vYk7LKI3k01qnOwDNQ" />
+  <component name="PropertiesComponent">
+    <property name="memory.settings.postsync.last.time.stamp" value="1601037262273" />
+  </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
